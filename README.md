@@ -1,16 +1,40 @@
-# Python Mini Projects
+Python Mini Projects
 
-This repository contains my Python practice programs and mini projects.
+This repository contains my Python practice programs and mini projects as I learn Python step by step.
 
-## Project 1: Student Record Manager
+Projects
 
-### Features
+1. Student Record Manager
+
 - Takes student details as input
 - Saves data to a text file
 - Reads and displays the saved data
+- Uses file handling and exception handling
 
-### Concepts Used
+2. To-Do List Manager
+
+- Add tasks
+- View saved tasks
+- Store tasks permanently in a text file
+- Uses functions, loops, file handling, and exception handling
+
+Concepts Practiced
+
 - Variables
-- User Input
+- Input / Output
+- Conditional statements
+- Loops
+- Functions
+- Strings
+- Lists
+- Tuples
+- Sets
+- Dictionaries
 - File Handling
-- f-strings
+- Exception Handling
+- Modules
+- Lambda Functions
+- Map, Filter, and Reduce
+- List Comprehensions
+
+This repository is part of my Python learning journey and will be updated with more projects as I continue learning.
