@@ -1,0 +1,17 @@
+requests
+psutil
+pyautogui
+pillow
+numpy
+sounddevice
+pyttsx3
+edge-tts
+faster-whisper
+rapidocr-onnxruntime
+pypdf
+python-docx
+python-pptx
+PySide6
+pandas
+matplotlib
+openpyxl

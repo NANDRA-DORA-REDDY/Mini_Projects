@@ -1,0 +1,30 @@
+{
+  "coding": [
+    {
+      "type": "app",
+      "value": "vscode"
+    },
+    {
+      "type": "open",
+      "value": "jarvis project"
+    },
+    {
+      "type": "url",
+      "value": "https://www.w3schools.com"
+    }
+  ],
+  "study": [
+    {
+      "type": "open",
+      "value": "study notes"
+    },
+    {
+      "type": "url",
+      "value": "https://www.google.com"
+    },
+    {
+      "type": "timer",
+      "value": 30
+    }
+  ]
+}
